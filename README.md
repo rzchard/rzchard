@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bem vindos ao meu perfil 🖤✨
 
-<!--
-**rzchard/rzchard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é 'RZCHARD' 
 
-Here are some ideas to get you started:
+- Estou estudando no alura 🕸️
+- Estou me desenvolvendo no JavaScript
+- 🏴 Utilizo esse espaço para organização e compartilhamento dos meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ##pode conta comigo.
+
+
+(![image](https://github.com/rzchard/rzchard/assets/171689433/a6d4446e-ca9e-4d12-a2ef-e2b0fc6ec44f))
+
+
+
+
